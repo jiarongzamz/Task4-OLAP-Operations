@@ -6,8 +6,8 @@ A SQL implementation of OLAP operations (Drill Down, Rollup, Cube, Slice, and Di
 ## Project Structure
 - `olap_operations.sql`
 - Screenshots:
-  - Task4_1_Database_Setup.png
-  - Task4_2_Data_Entry.png
+  - Task4_1_Database_Creation.png
+  - Task4_2_Data_Creation.png
   - Task4_3_Drill_Down.png
   - Task4_4_Rollup.png
   - Task4_5_Cube.png
