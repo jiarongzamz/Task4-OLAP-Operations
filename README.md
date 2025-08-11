@@ -4,7 +4,7 @@
 A SQL implementation of OLAP operations (Drill Down, Rollup, Cube, Slice, and Dice) on sales data to analyze performance across different dimensions and granularity levels.
 
 ## Project Structure
-- `olap_operations.sql`
+- `olap_operations.sql`: Main SQL code file
 - Screenshots:
   - Task4_1_Database_Creation.png
   - Task4_2_Data_Creation.png
